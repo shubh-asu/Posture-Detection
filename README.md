@@ -1,5 +1,5 @@
 # Posture Detection using Arduino BLE 33
-This project detects body postures like supine, prone, side, and sitting on the Arduino using tensorflow-lite. 
+This project detects body postures like supine, prone, side, and sitting on the Arduino using Tensorflow-Lite. 
 
 
 ## Installation and Changes in Code to use it
